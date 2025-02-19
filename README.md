@@ -5,10 +5,10 @@
 - **Firka Web** egy bőngészős bővítmény, ami *✨ megszépíti ✨* az e-KRÉTA weboldalt
 
 `👤 Vezetőség`
-- **zypherift** - Fejlesztés ([@zypherift](https://github.com/zypherift))
-- **Pearoo** - Fejlesztés, közösségi média & kommunikáció ([@Pearoo](https://yoursit.ee/p))
-- **BalazsManus** - Fejlesztés, rendszergazda ([@olajcsere](https://github.com/olajcsere))
-- **xou** - Design ([@xou](https://yoursit.ee/xou))
+- 🔮 **zypherift** - Fejlesztés ([@zypherift](https://github.com/zypherift))
+- 🐈 **Pearoo** - Fejlesztés, közösségi média & kommunikáció ([@Pearoo](https://yoursit.ee/p))
+- 🦎 **BalazsManus** - Fejlesztés, rendszergazda ([@olajcsere](https://github.com/olajcsere))
+- 👨‍❤️‍💋‍👨 **xou** - Design ([@xou](https://yoursit.ee/xou))
 - **hayn** - Közösségi média & kommunikáció ([@fromtheusa](https://github.com/fromtheusa))
 - **Zizi** - Közösség ([@ZiziHun](https://github.com/ZiziHun))
 
@@ -40,10 +40,10 @@
 - **Firka Web** an extension that *✨ beautifies ✨* the e-KRÉTA website
 
 `👤 Management`
-- **zypherift** - Development ([@zypherift](https://github.com/zypherift))
-- **Pearoo** - Development, social & PR ([@Pearoo](https://yoursit.ee/p))
-- **BalazsManus** - Development, sysadmin ([@olajcsere](https://github.com/olajcsere))
-- **xou** - Design ([@xou](https://yoursit.ee/xou))
+- 🔮 **zypherift** - Development ([@zypherift](https://github.com/zypherift))
+- 🐈 **Pearoo** - Development, social & PR ([@Pearoo](https://yoursit.ee/p))
+- 🦎 **BalazsManus** - Development, sysadmin ([@olajcsere](https://github.com/olajcsere))
+- 👨‍❤️‍💋‍👨 **xou** - Design ([@xou](https://yoursit.ee/xou))
 - **hayn** - Social & PR ([@fromtheusa](https://github.com/fromtheusa))
 - **Zizi** - Community ([@ZiziHun](https://github.com/ZiziHun))
 
