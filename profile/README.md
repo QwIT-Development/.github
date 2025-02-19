@@ -7,7 +7,7 @@
 ### `👤 Vezetőség`
 - 🔮 **zypherift** - Fejlesztés ([@zypherift](https://github.com/zypherift))
 - 🐈 **Pearoo** - Fejlesztés, közösségi média & kommunikáció ([@Pearoo](https://yoursit.ee/p))
-- 🦎 **BalazsManus** - Fejlesztés, rendszergazda ([@olajcsere](https://github.com/olajcsere))
+- 🦎 **BalazsManus** - Fejlesztés, rendszergazda ([@olajcsere](https://mnus.moe))
 - 👨‍❤️‍💋‍👨 **xou** - Design ([@xou](https://yoursit.ee/xou))
 - **hayn** - Közösségi média & kommunikáció ([@fromtheusa](https://github.com/fromtheusa))
 - **Zizi** - Közösség ([@ZiziHun](https://github.com/ZiziHun))
@@ -44,7 +44,7 @@
 ### `👤 Management`
 - 🔮 **zypherift** - Development ([@zypherift](https://github.com/zypherift))
 - 🐈 **Pearoo** - Development, social & PR ([@Pearoo](https://yoursit.ee/p))
-- 🦎 **BalazsManus** - Development, sysadmin ([@olajcsere](https://github.com/olajcsere))
+- 🦎 **BalazsManus** - Development, sysadmin ([@olajcsere](https://mnus.moe))
 - 👨‍❤️‍💋‍👨 **xou** - Design ([@xou](https://yoursit.ee/xou))
 - **hayn** - Social & PR ([@fromtheusa](https://github.com/fromtheusa))
 - **Zizi** - Community ([@ZiziHun](https://github.com/ZiziHun))
