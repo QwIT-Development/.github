@@ -9,8 +9,8 @@
 - 🐈 **Pearoo** - Fejlesztés, közösségi média & kommunikáció ([@Pearoo](https://yoursit.ee/p))
 - 🦎 **BalazsManus** - Fejlesztés, rendszergazda ([@olajcsere](https://mnus.moe))
 - 👨‍❤️‍💋‍👨 **xou** - Design ([@xou](https://yoursit.ee/xou))
-- **hayn** - Közösségi média & kommunikáció ([@fromtheusa](https://github.com/fromtheusa))
-- **Zizi** - Közösség ([@ZiziHun](https://github.com/ZiziHun))
+- 🗺 **hayn** - Közösségi média & kommunikáció ([@fromtheusa](https://github.com/fromtheusa))
+- 🐺 **Zizi** - Közösség ([@ZiziHun](https://github.com/ZiziHun))
 
 ### `⌨️ Fejlesztők`
 - [@zypherift](https://github.com/zypherift) 📱🌐🧩
