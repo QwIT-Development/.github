@@ -46,8 +46,8 @@
 - 🐈 **Pearoo** - Development, social & PR ([@Pearoo](https://yoursit.ee/p))
 - 🦎 **BalazsManus** - Development, sysadmin ([@olajcsere](https://mnus.moe))
 - 👨‍❤️‍💋‍👨 **xou** - Design ([@xou](https://yoursit.ee/xou))
-- **hayn** - Social & PR ([@fromtheusa](https://github.com/fromtheusa))
-- **Zizi** - Community ([@ZiziHun](https://github.com/ZiziHun))
+- 🗺 **hayn** - Social & PR ([@fromtheusa](https://github.com/fromtheusa))
+- 🐺 **Zizi** - Community ([@ZiziHun](https://github.com/ZiziHun))
 
 ### `⌨️ Developers`
 - [@zypherift](https://github.com/zypherift) 📱🌐🧩
