@@ -7,13 +7,13 @@
 ### `👤 Vezetőség`
 - 🔮 **zypherift** - Fejlesztés ([@zypherift](https://github.com/zypherift))
 - 🐈 **Pearoo** - Fejlesztés, közösségi média & kommunikáció ([@Pearoo](https://yoursit.ee/p))
-- 🦎 **BalazsManus** - Fejlesztés, rendszergazda ([@olajcsere](https://mnus.moe))
+- 🦎 **anchietae** - Fejlesztés, rendszergazda ([@anchietae](https://anchietae.cc))
 - 👨‍❤️‍💋‍👨 **xou** - Design ([@xou](https://yoursit.ee/xou))
 
 ### `⌨️ Fejlesztők`
 - [@zypherift](https://github.com/zypherift) 📱🌐🧩
 - [@rnxm](https://github.com/rnxm) 📱🧩
-- [@olajcsere](https://github.com/olajcsere) 📱🌐🧩
+- [@aenchietae](https://github.com/anchietae) 📱🌐🧩
 - [@tmarccci](https://github.com/TMarccci) 📱
 - [@Zan1456](https://github.com/Zan1456) 🧩
 - [@SebRHQ](https://github.com/SebRHQ) 📱
@@ -42,15 +42,13 @@
 ### `👤 Management`
 - 🔮 **zypherift** - Development ([@zypherift](https://github.com/zypherift))
 - 🐈 **Pearoo** - Development, social & PR ([@Pearoo](https://yoursit.ee/p))
-- 🦎 **BalazsManus** - Development, sysadmin ([@olajcsere](https://mnus.moe))
+- 🦎 **anchietae** - Development, sysadmin ([@anchietae](https://anchietae.cc))
 - 👨‍❤️‍💋‍👨 **xou** - Design ([@xou](https://yoursit.ee/xou))
-- 🗺 **hayn** - Social & PR ([@fromtheusa](https://github.com/fromtheusa))
-- 🐺 **Zizi** - Community ([@ZiziHun](https://github.com/ZiziHun))
 
 ### `⌨️ Developers`
 - [@zypherift](https://github.com/zypherift) 📱🌐🧩
 - [@rnxm](https://github.com/rnxm) 📱🧩
-- [@olajcsere](https://github.com/olajcsere) 📱🌐🧩
+- [@anchietae](https://github.com/anchietae) 📱🌐🧩
 - [@tmarccci](https://github.com/TMarccci) 📱
 - [@Zan1456](https://github.com/Zan1456) 🧩
 - [@SebRHQ](https://github.com/SebRHQ) 📱
@@ -60,9 +58,9 @@
 - [@xou](https://yoursit.ee/xou) on YourSitee
 - [@dwe](https://yoursit.ee/dw) on YourSitee
 
-### `🌐 Közösségi média`
+### `🌐 Socal media`
 - [@derikehh](https://yoursit.ee/derikehh) on YourSitee
-- liba [(website)](https://liba.lol)
+- [liba's website](https://liba.lol)
 - [@Pearoo](https://yoursit.ee/p) on YourSitee
 
 ### `👕 Merch`
