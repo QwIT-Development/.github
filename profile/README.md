@@ -5,19 +5,23 @@
 - **Firka Web** egy bőngészős bővítmény, ami *✨ megszépíti ✨* az e-KRÉTA weboldalt
 
 ### `👤 Vezetőség`
-- 🔮 **zypherift** - Fejlesztés ([@zypherift](https://github.com/zypherift))
-- 🐈 **Pearoo** - Fejlesztés, közösségi média & kommunikáció ([@Pearoo](https://yoursit.ee/p))
-- 🦎 **anchietae** - Fejlesztés, rendszergazda ([@anchietae](https://anchietae.cc))
+- 🔮 **zypherift** - Vezető app fejlesztő ([@zypherift](https://github.com/zypherift))
+- 🏳️‍🌈 **4831c0** - Vezető app fejlesztő ([@4831c0](https://github.com/4831c0))
+- ☕ **CoffeeLink** - Vezető backend fejlesztő ([@coffeelink](https://github.com/CoffeeLink))
+- 🐈 **Pearoo** - Közösségi média & kommunikáció ([@Pearoo](https://yoursit.ee/p))
+- 🦎 **anchietae** - Fejlesztő, rendszergazda ([@anchietae](https://anchietae.cc))
 - 👨‍❤️‍💋‍👨 **xou** - Design ([@xou](https://yoursit.ee/xou))
 
 ### `⌨️ Fejlesztők`
 - [@zypherift](https://github.com/zypherift) 📱🌐🧩
+- [@4831c0](https://github.com/4831c0)📱
+- [@coffeelink](https://github.com/CoffeeLink) ⚙️
 - [@rnxm](https://github.com/rnxm) 📱🧩
 - [@aenchietae](https://github.com/anchietae) 📱🌐🧩
 - [@tmarccci](https://github.com/TMarccci) 📱
 - [@Zan1456](https://github.com/Zan1456) 🧩
 - [@SebRHQ](https://github.com/SebRHQ) 📱
-- \+ mindenki, aki hozzájárult Githubon a fejlesztéshez! ♥️<br /><sup>📱 app, 🌐 weboldal, 🧩 bővítmény</sup>
+- \+ mindenki, aki hozzájárult Githubon a fejlesztéshez! ♥️<br /><sup>📱 app, ⚙️ backend, 🌐 weboldal, 🧩 bővítmény</sup>
 
 ### `🎨 Design`
 - [@xou](https://yoursit.ee/xou) a YourSitee-on
@@ -40,19 +44,23 @@
 - **Firka Web** an extension that *✨ beautifies ✨* the e-KRÉTA website
 
 ### `👤 Management`
-- 🔮 **zypherift** - Development ([@zypherift](https://github.com/zypherift))
-- 🐈 **Pearoo** - Development, social & PR ([@Pearoo](https://yoursit.ee/p))
-- 🦎 **anchietae** - Development, sysadmin ([@anchietae](https://anchietae.cc))
+- 🔮 **zypherift** - Lead app developer ([@zypherift](https://github.com/zypherift))
+- 🏳️‍🌈 **4831c0** - Lead app developer ([@4831c0](https://github.com/4831c0))
+- ☕ **CoffeeLink** - Lead backend developer ([@coffeelink](https://github.com/CoffeeLink))
+- 🐈 **Pearoo** - Social & PR ([@Pearoo](https://yoursit.ee/p))
+- 🦎 **anchietae** - Developer, sysadmin ([@anchietae](https://anchietae.cc))
 - 👨‍❤️‍💋‍👨 **xou** - Design ([@xou](https://yoursit.ee/xou))
 
 ### `⌨️ Developers`
 - [@zypherift](https://github.com/zypherift) 📱🌐🧩
+- [@4831c0](https://github.com/4831c0)📱
+- [@coffeelink](https://github.com/CoffeeLink) ⚙️
 - [@rnxm](https://github.com/rnxm) 📱🧩
 - [@anchietae](https://github.com/anchietae) 📱🌐🧩
 - [@tmarccci](https://github.com/TMarccci) 📱
 - [@Zan1456](https://github.com/Zan1456) 🧩
 - [@SebRHQ](https://github.com/SebRHQ) 📱
-- \+ everyone who contributed through Github! ♥️<br /><sup>📱 app, 🌐 website, 🧩 extension</sup>
+- \+ everyone who contributed through Github! ♥️<br /><sup>📱 app, ⚙️ backend, 🌐 website, 🧩 extension</sup>
 
 ### `🎨 Design`
 - [@xou](https://yoursit.ee/xou) on YourSitee
