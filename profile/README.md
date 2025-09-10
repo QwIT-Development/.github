@@ -16,7 +16,6 @@
 - [@4831c0](https://github.com/4831c0)📱
 - [@coffeelink](https://github.com/CoffeeLink) ⚙️
 - [@rnxm](https://github.com/rnxm) 📱🧩
-- [@aenchietae](https://github.com/anchietae) 🌐🧩
 - [@tmarccci](https://github.com/TMarccci) 📱
 - [@Zan1456](https://github.com/Zan1456) 🧩
 - [@SebRHQ](https://github.com/SebRHQ) 📱
@@ -54,7 +53,6 @@
 - [@4831c0](https://github.com/4831c0)📱
 - [@coffeelink](https://github.com/CoffeeLink) ⚙️
 - [@rnxm](https://github.com/rnxm) 📱🧩
-- [@anchietae](https://github.com/anchietae) 🌐🧩
 - [@tmarccci](https://github.com/TMarccci) 📱
 - [@Zan1456](https://github.com/Zan1456) 🧩
 - [@SebRHQ](https://github.com/SebRHQ) 📱
