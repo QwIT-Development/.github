@@ -9,7 +9,6 @@
 - 🏳️‍🌈 **4831c0** - Vezető app fejlesztő ([@4831c0](https://github.com/4831c0))
 - ☕ **CoffeeLink** - Vezető backend fejlesztő ([@coffeelink](https://github.com/CoffeeLink))
 - 🐈 **Pearoo** - Közösségi média & kommunikáció ([@Pearoo](https://yoursit.ee/p))
-- 🦎 **anchietae** - Fejlesztő, rendszergazda ([@anchietae](https://anchietae.cc))
 - 👨‍❤️‍💋‍👨 **xou** - Design ([@xou](https://yoursit.ee/xou))
 
 ### `⌨️ Fejlesztők`
@@ -17,7 +16,7 @@
 - [@4831c0](https://github.com/4831c0)📱
 - [@coffeelink](https://github.com/CoffeeLink) ⚙️
 - [@rnxm](https://github.com/rnxm) 📱🧩
-- [@aenchietae](https://github.com/anchietae) 📱🌐🧩
+- [@aenchietae](https://github.com/anchietae) 🌐🧩
 - [@tmarccci](https://github.com/TMarccci) 📱
 - [@Zan1456](https://github.com/Zan1456) 🧩
 - [@SebRHQ](https://github.com/SebRHQ) 📱
@@ -48,7 +47,6 @@
 - 🏳️‍🌈 **4831c0** - Lead app developer ([@4831c0](https://github.com/4831c0))
 - ☕ **CoffeeLink** - Lead backend developer ([@coffeelink](https://github.com/CoffeeLink))
 - 🐈 **Pearoo** - Social & PR ([@Pearoo](https://yoursit.ee/p))
-- 🦎 **anchietae** - Developer, sysadmin ([@anchietae](https://anchietae.cc))
 - 👨‍❤️‍💋‍👨 **xou** - Design ([@xou](https://yoursit.ee/xou))
 
 ### `⌨️ Developers`
@@ -56,7 +54,7 @@
 - [@4831c0](https://github.com/4831c0)📱
 - [@coffeelink](https://github.com/CoffeeLink) ⚙️
 - [@rnxm](https://github.com/rnxm) 📱🧩
-- [@anchietae](https://github.com/anchietae) 📱🌐🧩
+- [@anchietae](https://github.com/anchietae) 🌐🧩
 - [@tmarccci](https://github.com/TMarccci) 📱
 - [@Zan1456](https://github.com/Zan1456) 🧩
 - [@SebRHQ](https://github.com/SebRHQ) 📱
